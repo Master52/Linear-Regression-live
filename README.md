@@ -14,4 +14,4 @@ g++ main.cpp LinearRegression.cpp -o linearR
 linearR ./train.csv ./pred.csv
 ```
 
-![](ouput.gif)
+![demo](https://github.com/Master52/Linear-Regression-live/blob/master/output.gif)
