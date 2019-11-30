@@ -1,2 +1,17 @@
 # Linear-Regression-live
-Live Linear Regression with C++
+It is a simple linear regression return in C++.Which will pridict the regression line as you provide input
+
+## Dependency 
+gnuplot :- For ploting graph
+
+## Compiling 
+```
+g++ main.cpp LinearRegression.cpp -o linearR
+```
+
+## usage
+```
+linearR ./train.csv ./pred.csv
+```
+
+![Ouput](https://github.com/Master52/Linear-Regression-live/ouput.gif)
